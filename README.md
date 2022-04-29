@@ -1,23 +1,39 @@
-# Проект: Путешествие по России
+#  Проектная работа: Путешествиях по России
 
-### Обзор
-* Интро
+### Технологии
 * Figma
-* Картинки
+* BEM
+* BEM Nested
+* Flexbox
+* Grid Layout
 
-**Интро**
+### Стек
+* HTML
+* CSS
 
-Здесь будет проект о путешествии по России.
-В Фигме мы разместили макет, в котором видно, как проект должен выглядеть на самых распространённых разрешениях экранов.
-Этот проект сложнее предыдущих, постарайтесь уделить ему больше времени.
+**Описание**
 
-**Figma**
+Одностраничный сайт о путешествиях внутри страны, адаптированный под десктоп и мобильные устройства. Проект выполнен в рамках учебы в Яндекс.Практикум на факультете "Веб-разработчик".
 
-* [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
+[Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
 
-**Картинки**
+[Ссылка на сам проект на GitHub Pages]()
 
-Доставать картинки предстоит из Фигмы. Это расхожая практика, поэтому полезно потренироваться.
-Не забудьте [оптимизировать картинки](https://tinypng.com/), чтобы ваш сайт загружался быстрее.
+-----
 
-Удачи!
+# Project work: "Russian Travel"
+
+## A typical one-page site created as part of a study at Yandex.Praktikum on a web development course.
+
+### The work uses advanced HTML and CSS. 
+
+### Technologies: 
+* Figma
+* BEM
+* BEM Nested
+* Flexbox
+* Grid Layout
+
+### Languages: 
+* HTML 
+* CSS
