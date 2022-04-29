@@ -18,7 +18,7 @@
 
 @import url(../blocks/intro/intro.css);
 @import url(../blocks/intro/__list/intro__list.css);
-@import url(../blocks/intro/__list/_span/intro__list_span.css);
+@import url(../blocks/intro/__span/intro__span.css);
 @import url(../blocks/intro/__text/intro__text.css);
 @import url(../blocks/intro/__title/intro__title.css);
 
@@ -45,4 +45,4 @@
 @import url(../blocks/footer/__item/footer__item.css);
 @import url(../blocks/footer/__list/footer__list.css);
 
-@import url(../blocks/footer/__item/_link/footer__item_link.css);
+@import url(../blocks/footer/__link/footer__link.css);
