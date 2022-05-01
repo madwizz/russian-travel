@@ -1,24 +1,24 @@
-.places__paragraph {
+.place__paragraph {
   font-weight: 400;
   font-size: 18px;
   line-height: 1.63; /* 163% , 29px */
   margin: 0 0 26px 0;
 }
-.places__paragraph:last-of-type {
+.place__paragraph:last-of-type {
   margin-bottom: 0;
 }
 @media screen and (max-width: 1023px) {
-  .places__paragraph {
+  .place__paragraph {
     font-size: 16px;
   }
 }
 @media screen and (max-width: 1023px) and (min-width: 768px) {
-  .places__paragraph {
+  .place__paragraph {
     padding-left: 24px;
   }
 }
 @media screen and (max-width: 767px) and (min-width: 320px) {
-  .places__paragraph {
+  .place__paragraph {
     padding-left: 16px;
     max-width: 288px;
   }
