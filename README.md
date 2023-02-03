@@ -5,7 +5,7 @@
 
 ### The work uses advanced HTML and CSS. 
 
-![russian travel](https://user-images.githubusercontent.com/101938387/216566313-e5f8b401-e4ea-44e5-9f4d-a299a8fdfbe8.gif)
+![russian travel](https://user-images.githubusercontent.com/101938387/216566780-6adf1647-9b0f-4379-8a00-4002098773c0.gif)
 
 ### Technologies: 
 * Figma
