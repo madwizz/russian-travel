@@ -16,6 +16,8 @@
 * HTML 
 * CSS
 
+[Link to the page](https://madwizz.github.io/russian-travel/)
+
 #  Проектная работа: Путешествиях по России
 
 -----
